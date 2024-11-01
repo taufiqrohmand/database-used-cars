@@ -2,7 +2,7 @@
 
 A comprehensive database design implementation for a used car marketplace platform that facilitates direct connections between buyers and sellers. This project focuses on creating a robust database architecture that handles core marketplace functionalities and can be used for transactional and analytical queries.
 
-for detail design process and analytics please check on [My Medium Post]()
+for detail design process and analytics please check on [My Medium Post](https://medium.com/@taufiqrohmand/uncovering-databases-deep-dive-relational-database-design-for-used-cars-marketplace-platform-using-6791c7de653d)
 
 ## 🎯 Project Overview
 
